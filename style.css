@@ -1,0 +1,118 @@
+
+
+/* Target every elements */
+*{  
+  margin: 0;
+  padding: 0;
+  background-color: #161616;
+  font-family: 'Arial',sans-serif;
+}
+
+.header{
+  color:#C84B31;
+  font-size: 2em;
+  text-align:center;
+  background-color: rgba(0,0,0,0)
+}
+
+.header h1{
+  margin-top: 1em;
+  font-size: 5em;
+  text-align:center;
+  background-color: rgba(0,0,0,0)
+}
+
+.container2{
+  width:100em;
+  height:50em;
+  background-color: rgba(0,0,0,0)
+}
+
+.bgv video{
+  position: absolute;
+  float:right;
+  width:70%;
+  height:100%;
+  background-color: rgba(0,0,0,0);
+}
+
+.poet p{
+  position: absolute;
+  font-size: 2em;
+  line-height: 2em;
+  margin-top: 6em;
+  letter-spacing: 4px;
+  color: #ECDBBA;
+  font-family: 'Island Moments', cursive;
+  text-align:right;
+  font-style:italic;
+  float:right;
+  width:99%;
+  height:50%;
+  background-color: rgba(0,0,0,0);
+  Opacity:0.8
+}
+
+
+.card{
+  background-color: #346751;
+  padding: 2%;
+  border-radius: 0%;
+  margin-top: 5em
+}
+
+.card h5{
+  margin-top: 0.5em;
+  border-bottom: solid;
+  background-color: #346751;
+  color: #ECDBBA;
+}
+
+.card-header{
+  background-color: #346751;
+  color: #ECDBBA;
+}
+
+.card-header p{
+  background-color: #346751;
+  color: #ECDBBA;
+}
+
+.card-text{
+  background-color: #346751;
+  color: #ECDBBA;
+  font-style:italic
+}
+
+img{
+  width: 100%;
+}
+
+.infos-container {
+  display: flex; 
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: #346751;
+}
+
+.infos-content {
+  background-color: #346751;
+}
+.infos-content p {
+  background-color: #346751;
+  color: #ECDBBA;
+  font-size: 0.8em
+}
+
+.icons{
+  background-color: #346751;
+}
+
+i{
+  background-color: #346751;
+  
+}
+
+i::before{ 
+  color: #ECDBBA; 
+}
